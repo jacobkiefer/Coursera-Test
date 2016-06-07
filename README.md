@@ -1,3 +1,2 @@
-# hello-world
-Just a repo.
-Really.
+# coursera-test
+Just a test repository.
